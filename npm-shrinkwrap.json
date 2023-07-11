@@ -1,12 +1,12 @@
 {
   "name": "bigint-mod-arith",
-  "version": "3.3.1",
+  "version": "1.0.0",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "bigint-mod-arith",
-      "version": "3.3.1",
+      "version": "1.0.0",
       "license": "MIT",
       "devDependencies": {
         "@lumeweb/node-library-preset": "^0.2.7",
